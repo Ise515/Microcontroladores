@@ -1,4 +1,4 @@
-# Microcontroladores Semana 1
+# Microcontroladores Semana 1 - Poseidón
 En esta parte del repositorio se pueden visualizar tanto las simulaciones en Proteus 8, programación en MPLAB x IDE, archivos .hex e imágenes de los circuitos hechos en clase.
 
 # Materiales
@@ -15,7 +15,28 @@ En esta parte del repositorio se pueden visualizar tanto las simulaciones en Pro
     - Proteus 8
 
 # Repositorio
-Las simulaciones las podemos identificar como "practicauno" la que fue hecha en clase junto con el profesor, "practicaunopuntouno" y "parcticaunopuntodos" son los retos puestos por el profesor. 
-Al igual que los archivos .hex que se pueden cargar a la simulación de Proteus 8 para que el circuito funcione correctamente. 
-Los archivos de MPLAB x IDE se identifican por la primera parte "main", y los retos por "maindos" y "maintres".
+En este repositorio se pueden encontrar 3 prácticas, cada práctica tiene una parte en clase y una parte retórica.
 
+# Práctica 1 
+- Clase -> 4 Leds parpadeando
+   - practicauno.pdsprj
+   - main.c
+   - PRACTICA1.X.production.hex
+- Reto 1 -> Contador de 6 bits
+   - practicaunopuntouno.pdsprj
+   - maindos.c
+   - PRACTICA_1.1.X.production.hex
+- Reto 2 -> Caminata
+   - practicaunopuntodos.pdsprj
+   - maintres.c
+   - PRACTICA_1.2.X.production.hex
+
+# Práctica 2
+- Clase -> Formar "X" en una matriz LED de 8x8
+   - practicauno.pdsprj
+   - main.c
+   - PRACTICA1.X.production.hex
+- Reto -> Dos letras del nombre de cada integrante
+   - practicaunopuntouno.pdsprj
+   - maindos.c
+   - PRACTICA_1.1.X.production.hex
