@@ -1,0 +1,91 @@
+# ----------------------------------------------------------
+# MPLAB X IDE — Archivos generados automáticamente
+# ----------------------------------------------------------
+build/
+dist/
+nbproject/private/
+*.X/build/
+*.X/dist/
+*.X/private/
+*.X/*.make
+*.X/*.layout
+*.X/Makefile
+
+# Archivos de configuración locales de MPLAB
+*.mcp
+*.mcw
+*.cof
+
+# Archivos de depuración y temporales
+*.d
+*.o
+*.p1
+*.pre
+*.rlf
+*.lst
+*.map
+*.sym
+*.hex.bak
+*.obj
+
+# ----------------------------------------------------------
+# Proteus 8 — Archivos temporales y de respaldo
+# ----------------------------------------------------------
+*.DBK
+*.ldb
+*.log
+*.pdsbak
+*.~pdsprj
+Backup of *.pdsprj
+
+# Archivos de caché de Proteus
+CACHE/
+*.idx
+
+# ----------------------------------------------------------
+# Imágenes — solo excluir miniaturas y temporales
+# (se conservan .png, .jpg, .svg, etc.)
+# ----------------------------------------------------------
+Thumbs.db
+ehthumbs.db
+.DS_Store
+*_thumb.jpg
+*.tmp
+
+# ----------------------------------------------------------
+# Sistema Operativo
+# ----------------------------------------------------------
+
+# Windows
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Linux
+*~
+.nfs*
+
+# ----------------------------------------------------------
+# Editores y IDEs
+# ----------------------------------------------------------
+
+# VS Code
+.vscode/
+
+# Eclipse (por si se usa CCS u otro IDE)
+.project
+.cproject
+.settings/
+
+# ----------------------------------------------------------
+# Git LFS (si se usa para archivos grandes)
+# Descomenta si tienes archivos > 50 MB
+# ----------------------------------------------------------
+# !*.pdsprj
+# !*.png
+# !*.jpg
