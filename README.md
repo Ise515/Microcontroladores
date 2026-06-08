@@ -105,7 +105,7 @@
 
    ### Práctica 2
    
-   - **Clase → Formar una "X" con la matriz LED**
+  - **Clase → Formar una "X" con la matriz LED**
     - `practica_dos.pdsprj`
     - `maincuatro.c`
     - `Practica2.X.production.hex`
