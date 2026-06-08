@@ -117,12 +117,12 @@
 
   ### Práctica 3
   
-  - **Clase → Contador Binrio de 0 a 9**
+- **Clase → Contador Binrio de 0 a 9**
     - `practica_tres.pdsprj`
     - `mainseis.c`
     - `Practica3.X.production.hex`
-      
-   - **Reto 1 → Contador Binario de 0 a F**
+    
+- **Reto 1 → Contador Binario de 0 a F**
     - `practica_tres.pdsprj`
     - `mainsiete.c`
     - `Practica3.1.X.production.hex`
