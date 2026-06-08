@@ -74,6 +74,8 @@
       <code>330 Ohm</code> &nbsp;|&nbsp;
       <code>6 LEDs</code> &nbsp;|&nbsp;
       <code>Cristal 8MHz</code> &nbsp;|&nbsp;
+      <code>Matriz led de 8x8</code> &nbsp;|&nbsp;
+      <code>Display de 7 segmentos Cátodo Cómun</code> &nbsp;|&nbsp;
       <code>5V</code>
     </kbd>
   </p>
@@ -89,36 +91,36 @@
   ### Práctica 1
 
   - **Clase → 4 Leds parpadeando**
-    - `practicauno.pdsprj`
+    - `practica_uno.pdsprj`
     - `main.c`
     - `PRACTICA1.X.production.hex`
   - **Reto 1 → Contador de 6 bits**
-    - `practicaunopuntouno.pdsprj`
+    - `practica_uno.pdsprj`
     - `maindos.c`
     - `PRACTICA_1.1.X.production.hex`
   - **Reto 2 → Caminata**
-    - `practicaunopuntodos.pdsprj`
+    - `practica_uno.pdsprj`
     - `maintres.c`
     - `PRACTICA_1.2.X.production.hex`
 
    ### Práctica 2
    - **Clase → Formar una "X" con la matriz LED**
-    - `nosecualponer.pdsprj`
-    - `main.c`
+    - `practica_dos.pdsprj`
+    - `maincuatro.c`
     - `Practica2.X.production.hex`
   - **Reto 1 → Iniciales de nuestros nombres "D E M I"**
-    - `nosecualponer.pdsprj`
-    - `maindos.c`
+    - `practica_dos.pdsprj`
+    - `maincinco.c`
     - `practica2.1.1.X.production.hex`
 
   ### Práctica 3
   - **Clase → Contador Binrio de 0 a 9**
-    - `nosecualponer.pdsprj`
-    - `main.c`
+    - `practica_tres.pdsprj`
+    - `mainseis.c`
     - `Practica3.X.production.hex`
    - **Reto 1 → Contador Binario de 0 a F**
-    - `nosecualponer.pdsprj`
-    - `maindos.c`
+    - `practica_tres.pdsprj`
+    - `mainsiete.c`
     - `Practica3.1.X.production.hex`
 </details>
 
