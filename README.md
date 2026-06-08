@@ -102,17 +102,24 @@
     - `PRACTICA_1.2.X.production.hex`
 
    ### Práctica 2
-    - **Clase → Formar una "X" con la matriz LED**
-    - `practicauno.pdsprj`
+   - **Clase → Formar una "X" con la matriz LED**
+    - `nosecualponer.pdsprj`
     - `main.c`
-    - `PRACTICA1.X.production.hex`
-  - **Reto 1 → Contador de 6 bits**
-    - `practicaunopuntouno.pdsprj`
+    - `Practica2.X.production.hex`
+  - **Reto 1 → Iniciales de nuestros nombres "D E M I"**
+    - `nosecualponer.pdsprj`
     - `maindos.c`
-    - `PRACTICA_1.1.X.production.hex`
+    - `practica2.1.1.X.production.hex`
 
   ### Práctica 3
-
+  - **Clase → Contador Binrio de 0 a 9**
+    - `nosecualponer.pdsprj`
+    - `main.c`
+    - `Practica3.X.production.hex`
+   - **Reto 1 → Contador Binario de 0 a F**
+    - `nosecualponer.pdsprj`
+    - `maindos.c`
+    - `Practica3.1.X.production.hex`
 </details>
 
 <details>
