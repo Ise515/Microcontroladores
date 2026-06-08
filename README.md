@@ -109,6 +109,7 @@
     - `practica_dos.pdsprj`
     - `maincuatro.c`
     - `Practica2.X.production.hex`
+     
   - **Reto 1 → Iniciales de nuestros nombres "D E M I"**
     - `practica_dos.pdsprj`
     - `maincinco.c`
@@ -120,6 +121,7 @@
     - `practica_tres.pdsprj`
     - `mainseis.c`
     - `Practica3.X.production.hex`
+      
    - **Reto 1 → Contador Binario de 0 a F**
     - `practica_tres.pdsprj`
     - `mainsiete.c`
