@@ -90,39 +90,39 @@
 
   ### Práctica 1
 
-   **Clase → 4 Leds parpadeando**
+ -  **Clase → 4 Leds parpadeando**
     - `practica_uno.pdsprj`
     - `main.c`
     - `PRACTICA1.X.production.hex`
-   **Reto 1 → Contador de 6 bits**
+ -  **Reto 1 → Contador de 6 bits**
     - `practica_uno.pdsprj`
     - `maindos.c`
     - `PRACTICA_1.1.X.production.hex`
-   **Reto 2 → Caminata**
+-  **Reto 2 → Caminata**
     - `practica_uno.pdsprj`
     - `maintres.c`
     - `PRACTICA_1.2.X.production.hex`
 
    ### Práctica 2
    
-   **Clase → Formar una "X" con la matriz LED**
+-   **Clase → Formar una "X" con la matriz LED**
     - `practica_dos.pdsprj`
     - `maincuatro.c`
     - `Practica2.X.production.hex`
      
-   **Reto 1 → Iniciales de nuestros nombres "D E M I"**
+-   **Reto 1 → Iniciales de nuestros nombres "D E M I"**
     - `practica_dos.pdsprj`
     - `maincinco.c`
     - `practica2.1.1.X.production.hex`
 
   ### Práctica 3
   
- **Clase → Contador Binrio de 0 a 9**
+-  **Clase → Contador Binrio de 0 a 9**
     - `practica_tres.pdsprj`
     - `mainseis.c`
     - `Practica3.X.production.hex`
     
- **Reto 1 → Contador Binario de 0 a F**
+-  **Reto 1 → Contador Binario de 0 a F**
     - `practica_tres.pdsprj`
     - `mainsiete.c`
     - `Practica3.1.X.production.hex`
