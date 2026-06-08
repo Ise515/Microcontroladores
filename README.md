@@ -104,6 +104,7 @@
     - `PRACTICA_1.2.X.production.hex`
 
    ### Práctica 2
+   
    - **Clase → Formar una "X" con la matriz LED**
     - `practica_dos.pdsprj`
     - `maincuatro.c`
@@ -114,6 +115,7 @@
     - `practica2.1.1.X.production.hex`
 
   ### Práctica 3
+  
   - **Clase → Contador Binrio de 0 a 9**
     - `practica_tres.pdsprj`
     - `mainseis.c`
@@ -122,6 +124,7 @@
     - `practica_tres.pdsprj`
     - `mainsiete.c`
     - `Practica3.1.X.production.hex`
+     
 </details>
 
 <details>
