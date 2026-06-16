@@ -3,7 +3,7 @@
 #include "lcd.h"
 
 //=============================================================================
-// CONFIGURACIÓN
+// CONFIGURACIÃ“N
 //=============================================================================
 #pragma config FOSC = HS
 #pragma config WDTE = OFF
@@ -109,7 +109,7 @@ void main(void){
 
                 LCD_Set_Cursor(1,0);
                 LCD_putrs("    Matata ");
-                LCD_putc(1);           // Corazón
+                LCD_putc(1);           // CorazÃ³n
             }
 
             actualizarLCD = 0;
