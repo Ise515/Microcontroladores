@@ -145,6 +145,6 @@
 </div>
 
 ------
-Proyecto: Microcontroladores Semana 1 – Poseidón
+Proyecto: Microcontroladores – Poseidón
 
 Última edición: 2026 - en actualización
