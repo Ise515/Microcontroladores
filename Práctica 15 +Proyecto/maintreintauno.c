@@ -372,7 +372,7 @@ void UART_Write(unsigned char dato)
 
 void main(void)
 {
-    // Configuración de puertos
+    // ConfiguraciÃ³n de puertos
 
     TRISA = 0xFF;
     TRISB = 0x00;
