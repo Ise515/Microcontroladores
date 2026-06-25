@@ -38,7 +38,7 @@ void Timer0_Init(){
 
 void ADC_Init(){
     ADCON0 = 0x41;      // Canal AN0, ADC encendido
-    ADCON1 = 0x8E;      // AN0 analógico, Vref=Vdd
+    ADCON1 = 0x8E;      // AN0 analÃ³gico, Vref=Vdd
 }
 
 unsigned int ADC_Read(){
@@ -76,7 +76,7 @@ void main(void){
 
     while(1){
 
-        // Lectura del potenciómetro
+        // Lectura del potenciÃ³metro
         adc = ADC_Read();
         voltaje = (adc * 5.0)/1023.0;
 
