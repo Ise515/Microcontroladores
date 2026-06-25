@@ -147,4 +147,4 @@
 ------
 Proyecto: Microcontroladores – Poseidón
 
-Última edición: 2026 - en actualización
+Última edición: 25 Junio 2026
