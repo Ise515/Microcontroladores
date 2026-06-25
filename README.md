@@ -28,14 +28,14 @@
 
 ```js
 /**
- * Microcontroladores - Semana 1.
+ * Microcontroladores - VERANO26.
  *
  * @constructor
  * @param {string} Proyecto     - Poseidón.
  * @param {string} Materia      - Microprocesadores.
  * @param {string} Herramientas - MPLAB X IDE, Proteus 8.
- * @param {string} Contenido    - Simulaciones, código C, archivos .hex e imágenes.
- * @param {string} Practicas    - 3 prácticas (Clase + Reto).
+ * @param {string} Contenido    - Simulaciones, Código C, archivos .hex e imágenes.
+ * @param {string} Practicas    - Muchas prácticas (Clase + Reto + Proyectos).
  *
  */
 ```
@@ -57,6 +57,7 @@
       <br><br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" title="Lenguaje C - MPLAB X IDE"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="ide" title="MPLAB X IDE"/>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-    original.svg(https://github.com/danielaborda/pngs/blob/main/mlab.png)" alt="ide" title="MPLAB X IDE"/>
     </kbd>
     <kbd>
       <kbd>Componentes electrónicos</kbd>
@@ -72,10 +73,17 @@
       <code>Push button</code> &nbsp;|&nbsp;
       <code>1k Ohm</code> &nbsp;|&nbsp;
       <code>330 Ohm</code> &nbsp;|&nbsp;
-      <code>6 LEDs</code> &nbsp;|&nbsp;
+      <code>LEDs</code> &nbsp;|&nbsp;
       <code>Cristal 8MHz</code> &nbsp;|&nbsp;
-      <code>Matriz led de 8x8</code> &nbsp;|&nbsp;
+      <code>Matriz LED de 8x8</code> &nbsp;|&nbsp;
       <code>Display de 7 segmentos Cátodo Cómun</code> &nbsp;|&nbsp;
+      <code>Jumpers (Macho/Macho - Macho/Hembra)</code> &nbsp;|&nbsp;
+      <code>Display de 7 segmentos Cátodo Cómun (4 dígitos)</code> &nbsp;|&nbsp;
+      <code>Display LCD</code> &nbsp;|&nbsp;
+      <code>Potenciómetros (1K, 5K, 10K)</code> &nbsp;|&nbsp;
+      <code>Motor DC</code> &nbsp;|&nbsp;
+      <code>Puente H</code> &nbsp;|&nbsp;
+      <code>Servomotor Azul</code> &nbsp;|&nbsp;
       <code>5V</code>
     </kbd>
   </p>
@@ -109,10 +117,10 @@
 </details>
 
 <details>
-  <summary>Descripción general</summary>
+  <summary>Firma de Honor</summary>
   <br>
   <p>
-    En esta parte del repositorio se pueden visualizar tanto las simulaciones en <strong>Proteus 8</strong>, programación en <strong>MPLAB X IDE</strong>, archivos <strong>.hex</strong> e imágenes de los circuitos hechos en clase.
+    "Damos nuestra palabra que hemos realizado estas practicas con integridad académica"
   </p>
 </details>
 
