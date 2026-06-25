@@ -16,7 +16,7 @@
   </div>
   <div align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=600&lines=Microcontroladores+Semana+1;Equipo+Poseid%C3%B3n;Se%C3%B1or+de+los+Mares;PIC16F887+%2B+MPLAB+X+IDE;Proteus+8+Simulation;3+Pr%C3%A1cticas+Disponibles;Hardworking+and+Ambitious" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=600&lines=Microcontroladores+Semana+1;Equipo+Poseid%C3%B3n;Se%C3%B1or+de+los+Mares;PIC16F887+%2B+MPLAB+X+IDE;Proteus+8+Simulation;15+Pr%C3%A1cticas+Disponibles;Hardworking+and+Ambitious" alt="Typing SVG" />
     </a>
   </div>
 </div>
