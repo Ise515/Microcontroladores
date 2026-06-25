@@ -22,8 +22,8 @@
 //=============================================================================
 #define _XTAL_FREQ 8000000
 
-#define SERVO_0    62    // 0°   (0.5ms)
-#define SERVO_180  250   // 180° (2.5ms)
+#define SERVO_0    62    // 0Â°   (0.5ms)
+#define SERVO_180  250   // 180Â° (2.5ms)
 
 void ADC_Init(void){
     ANSEL  = 0x01;
