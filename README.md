@@ -56,8 +56,9 @@
       <kbd>Software</kbd>
       <br><br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" title="Lenguaje C - MPLAB X IDE"/>
+      <img width="30px" src="https://github.com/danielaborda/pngs/blob/main/mlab%20orgi.jpg" alt="ide" title="MPLAB X IDE"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="ide" title="MPLAB X IDE"/>
-      <img width="30px" src="https://github.com/danielaborda/pngs/blob/main/mlab.png" alt="ide" title="MPLAB X IDE"/>
+      <img width="30px" src="https://github.com/danielaborda/pngs/blob/main/pickit.jpg" alt="ide" title="PICKIT3"/>
     </kbd>
     <kbd>
       <kbd>Componentes electrónicos</kbd>
