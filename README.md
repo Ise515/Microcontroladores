@@ -86,46 +86,25 @@
   <summary>Estructura del repositorio</summary>
   <br>
 
-  En este repositorio se pueden encontrar **3 prácticas**, cada práctica tiene una parte en clase y una parte retórica (reto).
+  En este repositorio se pueden encontrar **15 prácticas**, cada práctica tiene una parte en clase y una parte retórica (reto), además de algunas autodidacticas.
 
-  ### Práctica 1
-
- -  **Clase → 4 Leds parpadeando**
-    - `practica_uno.pdsprj`
-    - `main.c`
-    - `PRACTICA1.X.production.hex`
- -  **Reto 1 → Contador de 6 bits**
-    - `practica_uno.pdsprj`
-    - `maindos.c`
-    - `PRACTICA_1.1.X.production.hex`
--  **Reto 2 → Caminata**
-    - `practica_uno.pdsprj`
-    - `maintres.c`
-    - `PRACTICA_1.2.X.production.hex`
-
-   ### Práctica 2
-   
--   **Clase → Formar una "X" con la matriz LED**
-    - `practica_dos.pdsprj`
-    - `maincuatro.c`
-    - `Practica2.X.production.hex`
-     
--   **Reto 1 → Iniciales de nuestros nombres "D E M I"**
-    - `practica_dos.pdsprj`
-    - `maincinco.c`
-    - `practica2.1.1.X.production.hex`
-
-  ### Práctica 3
-  
--  **Clase → Contador Binrio de 0 a 9**
-    - `practica_tres.pdsprj`
-    - `mainseis.c`
-    - `Practica3.X.production.hex`
-    
--  **Reto 1 → Contador Binario de 0 a F**
-    - `practica_tres.pdsprj`
-    - `mainsiete.c`
-    - `Practica3.1.X.production.hex`
+  <p align="center">
+  <a href="https://github.com/Ise515/Microcontroladores/tree/main/Pr%C3%A1ctica%201"><img src="https://img.shields.io/badge/Pr%C3%A1ctica%201-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Ise515/Microcontroladores/tree/main/Pr%C3%A1ctica%202"><img src="https://img.shields.io/badge/Pr%C3%A1ctica%202-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Ise515/Microcontroladores/tree/main/Pr%C3%A1ctica%203"><img src="https://img.shields.io/badge/Pr%C3%A1ctica%203-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Ise515/Microcontroladores/tree/main/Pr%C3%A1ctica%204"><img src="https://img.shields.io/badge/Pr%C3%A1ctica%204-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Ise515/Microcontroladores/tree/main/Pr%C3%A1ctica%205"><img src="https://img.shields.io/badge/Pr%C3%A1ctica%205-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Ise515/Microcontroladores/tree/main/Pr%C3%A1ctica%206"><img src="https://img.shields.io/badge/Pr%C3%A1ctica%206-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Ise515/Microcontroladores/tree/main/Pr%C3%A1ctica%207"><img src="https://img.shields.io/badge/Pr%C3%A1ctica%207-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Ise515/Microcontroladores/tree/main/Pr%C3%A1ctica%208"><img src="https://img.shields.io/badge/Pr%C3%A1ctica%208-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Ise515/Microcontroladores/tree/main/Pr%C3%A1ctica%209"><img src="https://img.shields.io/badge/Pr%C3%A1ctica%209-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Ise515/Microcontroladores/tree/main/Pr%C3%A1ctica%2010"><img src="https://img.shields.io/badge/Pr%C3%A1ctica%2010-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Ise515/Microcontroladores/tree/main/Pr%C3%A1ctica%2011"><img src="https://img.shields.io/badge/Pr%C3%A1ctica%2011-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Ise515/Microcontroladores/tree/main/Pr%C3%A1ctica%2012"><img src="https://img.shields.io/badge/Pr%C3%A1ctica%2012-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Ise515/Microcontroladores/tree/main/Pr%C3%A1ctica%2013"><img src="https://img.shields.io/badge/Pr%C3%A1ctica%2013-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Ise515/Microcontroladores/tree/main/Pr%C3%A1ctica%2014"><img src="https://img.shields.io/badge/Pr%C3%A1ctica%2014-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Ise515/Microcontroladores/tree/main/Pr%C3%A1ctica%2015%20%2BProyecto"><img src="https://img.shields.io/badge/Pr%C3%A1ctica%2015%20%2B%20Proyecto-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
      
 </details>
 
