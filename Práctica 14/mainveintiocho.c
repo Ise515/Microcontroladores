@@ -22,8 +22,8 @@
 //=============================================================================
 #define _XTAL_FREQ 8000000
 
-#define SERVO_0    62    // 0°   
-#define SERVO_180  250   // 180° 
+#define SERVO_0    62    // 0Â°   
+#define SERVO_180  250   // 180Â° 
 
 
 void PWM_Init(void){
@@ -46,13 +46,13 @@ void main(void){
     PWM_Init();
 
     while(1){
-        // Movimiento de 0° a 180°
+        // Movimiento de 0Â° a 180Â°
         for(duty = SERVO_0; duty <= SERVO_180; duty++){
             PWM_SetDuty(duty);
             __delay_ms(10);
         }
 
-        // Movimiento de 180° a 0°
+        // Movimiento de 180Â° a 0Â°
         for(duty = SERVO_180; duty > SERVO_0; duty--){
             PWM_SetDuty(duty);
             __delay_ms(10);
