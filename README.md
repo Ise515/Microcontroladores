@@ -95,7 +95,7 @@
   <summary>Estructura del repositorio</summary>
   <br>
 
-  En este repositorio se pueden encontrar **15 prácticas**, cada práctica tiene una parte en clase y una parte retórica (reto), además de algunas autodidacticas.
+  En este repositorio se pueden encontrar **16 prácticas**, cada práctica tiene una parte en clase y una parte retórica (reto), además de algunas autodidacticas.
 
   <p align="center">
   <a href="https://github.com/Ise515/Microcontroladores/tree/main/Pr%C3%A1ctica%201"><img src="https://img.shields.io/badge/Pr%C3%A1ctica%201-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -104,6 +104,7 @@
   <a href="https://github.com/Ise515/Microcontroladores/tree/main/Pr%C3%A1ctica%204"><img src="https://img.shields.io/badge/Pr%C3%A1ctica%204-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://github.com/Ise515/Microcontroladores/tree/main/Pr%C3%A1ctica%205"><img src="https://img.shields.io/badge/Pr%C3%A1ctica%205-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://github.com/Ise515/Microcontroladores/tree/main/Pr%C3%A1ctica%206"><img src="https://img.shields.io/badge/Pr%C3%A1ctica%206-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://github.com/Ise515/Microcontroladores/tree/main/Proyecto%201"><img src="https://github.com/Ise515/Microcontroladores/tree/main/Proyecto%201" /></a>
   <a href="https://github.com/Ise515/Microcontroladores/tree/main/Pr%C3%A1ctica%207"><img src="https://img.shields.io/badge/Pr%C3%A1ctica%207-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://github.com/Ise515/Microcontroladores/tree/main/Pr%C3%A1ctica%208"><img src="https://img.shields.io/badge/Pr%C3%A1ctica%208-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://github.com/Ise515/Microcontroladores/tree/main/Pr%C3%A1ctica%209"><img src="https://img.shields.io/badge/Pr%C3%A1ctica%209-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
